@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+*{
+  font-family: Playfair;
+}
+.font-playfair{
+  font-family: Playfair !important;
+}
