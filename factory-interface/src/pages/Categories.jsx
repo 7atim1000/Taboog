@@ -10,7 +10,7 @@ import { keepPreviousData, useQuery } from '@tanstack/react-query'
 import { getBgColor } from '../utils';
 import CategoryAdd from '../components/categories/CategoryAdd';
 import BottomNav from '../components/shared/BottomNav';
-import CategoryEdit from '../components/categories/CategoryEdit';
+import CategoryEdit from '../components/categories/categoryEdit';
 
 const Categories = () => {
     const Button = [
